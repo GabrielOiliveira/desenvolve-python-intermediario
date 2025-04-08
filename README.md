@@ -1,2 +1,4 @@
-# python-intermediario
-Exercícios de Python Intermediário
+# desenvolve-python-intermediario
+# Cidade: Projeto Desenvolve - Itabira
+# Disciplina: Programação Intermediária com Python
+# Matrícula: PDITA471 
